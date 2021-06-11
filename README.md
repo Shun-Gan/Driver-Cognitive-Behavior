@@ -10,7 +10,7 @@ There are five available datasets:
 5. [RHS](https://osf.io/uq6pc/).
 
 ## Demos
-Three demos inferenced by the perciption model and hazard recognition model have been published in **YouTube** as below:
+Three demos inferenced by the perception model and hazard recognition model have been published in **YouTube** as below:
 **Noaudio_c_001_critical_swerve from RHS**  
 [![Deom01](https://img.youtube.com/vi/Zc2-Px4yHsE/0.jpg)](https://www.youtube.com/watch?v=Zc2-Px4yHsE "Deom01")
 
